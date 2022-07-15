@@ -1,0 +1,11 @@
+// ben nay lam gi la ben app.css no se render ra giong ben nay
+@import 'variables';
+.test {
+  font-size: 1rem;
+}
+.app {
+  width: 100px;
+}
+h1 {
+  color: $red-color;
+}
